@@ -1,2 +1,2 @@
 # RetailSmart-SQL-Data-Analysis
-Performed data extraction, cleaning, and EDA on RetailSmart Store data to answer key business questions and generate insights. Developed complex SQL queries using JOINs, CTEs, and aggregations to analyze transactional datasets.
+This project is based on RetailSmart Store, where data was imported from CSV files containing customers, sales, marketing, products, and reviews. Using SQL, I performed data extraction, cleaning, and exploratory data analysis (EDA) to answer key business questions and generate actionable insights. I developed complex SQL queries using JOINs, CTEs, and aggregations to analyze transactional datasets effectively.
